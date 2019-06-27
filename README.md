@@ -19,15 +19,7 @@ headset-耳机    icon-headseterji
 定位    icon-dingwei
 灵接触循环  icon-lingjiechuxunhuan
 ```
-
-```
-<svg class="icon" aria-hidden="true">
-    <use xlink:href="#icon-xxx"></use>
-</svg>
-```
 ![icon](img/icon.png)
 ![仿小米首页全图](mi.png)
-
-关注分享，关注导航，关注馨客栈
 
 
